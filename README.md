@@ -39,6 +39,7 @@ python -m venv env
 ```
 Ative o ambiente virtual python
 ```
+# para linux
 source env/bin/activate
 ```
 
@@ -51,7 +52,7 @@ pip install pygame-ce
 Execute o programa:
 
 ```bash
-python main.py
+abra a pasta do jogo e execute o arquivo main.py dentro do vscode
 ```
 
 ---

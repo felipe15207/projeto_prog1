@@ -16,7 +16,7 @@ Projeto desenvolvido para a disciplina de Programação 1. Trata-se de um jogo n
 ### Pré-requisitos
 
 - Python 3
-- Pygame instalado
+- pygame-ce instalado
 
 ### Instalação
 
@@ -37,11 +37,15 @@ Crie o ambiente virtual python
 ```
 python -m venv env
 ```
+Ative o ambiente virtual python
+```
+source env/bin/activate
+```
 
 Instale a biblioteca pygame:
 
 ```bash
-pip install pygame
+pip install pygame-ce
 ```
 
 Execute o programa:
@@ -54,6 +58,12 @@ python main.py
 
 ## Bibliotecas utilizadas
 
-- Pygame
+- Pygame-ce (Community Edition é uma bifurcação do projeto)
 
 ---
+
+## Materiais consultados
+
+https://www.youtube.com/@DaFluffyPotato (canal do youtube ensinar sobre desenvolvimento de jogos principalmente com pygame)
+https://pyga.me/docs/ (documentação do pygame-ce)
+https://www.spriters-resource.com/snes/dragonq/ (sprites utilizados no cenário e personagens do jogo)

@@ -65,6 +65,6 @@ abra a pasta do jogo e execute o arquivo main.py dentro do vscode
 
 ## Materiais consultados
 
-https://www.youtube.com/@DaFluffyPotato (canal do youtube ensinar sobre desenvolvimento de jogos principalmente com pygame)
-https://pyga.me/docs/ (documentação do pygame-ce)
-https://www.spriters-resource.com/snes/dragonq/ (sprites utilizados no cenário e personagens do jogo)
+* https://www.youtube.com/@DaFluffyPotato (canal do youtube ensinar sobre desenvolvimento de jogos principalmente com pygame)
+* https://pyga.me/docs/ (documentação do pygame-ce)
+* https://www.spriters-resource.com/snes/dragonq/ (sprites utilizados no cenário e personagens do jogo)

@@ -1,0 +1,33 @@
+quero um tilemap 17x12 tipo esse para dungeon, os tipos de tiles são:
+
+pld - parede da lateral direita;
+
+ple - parede da lateral esquerda;
+
+p - parede isolada;
+
+ph - parede horizontal;
+
+phu - parede horizontal com conexão de parede para cima;
+
+phd - parede horizontal que tem fechamento na direita;
+
+phe - parede horizontal que tem fechamento na esquerda;
+
+' ' - chao normal;
+
+cs - chao com sombra para parede ple;
+
+cp1 - chao com uma pedrinha;
+
+cp2 - chao com uma pedrona;
+
+cp3 - chao com uma pedrinha e pedrona;
+
+ec - escadaria para cima;
+
+eb - escadaria para baixo;
+
+t - chao com tocha;
+
+b - chao com bau;

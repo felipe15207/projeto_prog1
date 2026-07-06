@@ -59,7 +59,7 @@ abra a pasta do jogo e execute o arquivo main.py dentro do vscode
 
 ## Bibliotecas utilizadas
 
-- Pygame-ce (Community Edition é uma bifurcação do projeto)
+- Pygame-ce (Community Edition é uma bifurcação do projeto pygame original)
 
 ---
 

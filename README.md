@@ -54,7 +54,6 @@ python main.py
 
 ## Bibliotecas utilizadas
 
-- Python 3
 - Pygame
 
 ---

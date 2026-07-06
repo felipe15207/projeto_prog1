@@ -23,13 +23,13 @@ Projeto desenvolvido para a disciplina de Programação 1. Trata-se de um jogo n
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/felipe15207/projeto_prog1.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd projeto_prog1
 ```
 
 Crie o ambiente virtual python
